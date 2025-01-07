@@ -1,0 +1,28 @@
+#img-container{
+    width: 90%;
+    max-width: 90%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+.movie-img-div{
+    width: 200px;
+    margin: 10px;
+}
+
+.movie-img-div img{
+    width: 100%;
+}
+
+#search-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#top-10-lists{
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
